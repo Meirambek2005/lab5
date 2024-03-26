@@ -1,12 +1,4 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/admin/lab5_10/lab5_10.srcs/sources_1/new/N.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module N
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/admin/lab5_10/lab5_10.srcs/sources_1/new/NAO.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module NAO
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/admin/lab5_10/lab5_10.srcs/sources_1/new/NOAA.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module NOAA
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/admin/lab5_10/lab5_10.srcs/sources_1/new/T-trigger.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module T_trigger
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/admin/lab5_10/lab5_10.srcs/sources_1/new/T_trigger_a.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module T_trigger_a
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/admin/lab5_10/lab5_10.srcs/sources_1/new/tb_trigger.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module tb_trigger
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/admin/lab5_10/lab5_10.srcs/sources_1/new/Mealy.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mealy
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/admin/lab5_10/lab5_10.srcs/sources_1/new/tb_Mealy.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_Mealy
